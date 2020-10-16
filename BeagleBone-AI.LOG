@@ -1,0 +1,842 @@
+Importer Log Report
+Project : BeagleBone-AI.PrjPcb
+
+Section : Document - C:\Users\ReaiotV\Downloads\beaglebone-ai-master-20201014T135441Z-001\beaglebone-ai-master\HW\BeagleBone-AI.dsn
+
+    Section : Importing Sheet - 02 Block Diagram.SchDoc
+        Embedded OLE object could not be imported!
+    EndSection
+
+    Section : Importing Sheet - 03 PMIC1.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (119.38mm,218.44mm) is not recognised
+        Warning : Junction at (284.48mm,190.5mm) has been added.
+        Warning : Junction at (284.48mm,167.64mm) has been added.
+        Warning : Junction at (116.84mm,256.54mm) has been added.
+        Warning : Junction at (127mm,231.14mm) has been added.
+        Warning : Junction at (203.2mm,264.16mm) has been added.
+        Warning : Junction at (182.88mm,251.46mm) has been added.
+        Warning : Junction at (210.82mm,264.16mm) has been added.
+        Warning : Junction at (218.44mm,264.16mm) has been added.
+        Warning : Junction at (218.44mm,251.46mm) has been added.
+        Warning : Junction at (228.6mm,251.46mm) has been added.
+        Warning : Junction at (142.24mm,220.98mm) has been added.
+        Warning : Junction at (91.44mm,190.5mm) has been added.
+        Warning : Junction at (134.62mm,157.48mm) has been added.
+        Warning : Junction at (134.62mm,154.94mm) has been added.
+        Warning : Junction at (134.62mm,152.4mm) has been added.
+        Warning : Junction at (139.7mm,142.24mm) has been added.
+        Warning : Junction at (160.02mm,66.04mm) has been added.
+        Warning : Junction at (160.02mm,76.2mm) has been added.
+        Warning : Junction at (160.02mm,78.74mm) has been added.
+        Warning : Junction at (160.02mm,93.98mm) has been added.
+        Warning : Junction at (160.02mm,99.06mm) has been added.
+        Warning : Junction at (160.02mm,116.84mm) has been added.
+        Warning : Junction at (160.02mm,129.54mm) has been added.
+        Warning : Junction at (160.02mm,111.76mm) has been added.
+        Warning : Junction at (160.02mm,104.14mm) has been added.
+        Warning : Junction at (160.02mm,91.44mm) has been added.
+        Warning : Junction at (160.02mm,83.82mm) has been added.
+        Warning : Junction at (160.02mm,73.66mm) has been added.
+        Warning : Junction at (271.78mm,203.2mm) has been added.
+        Warning : Junction at (284.48mm,111.76mm) has been added.
+        Warning : Junction at (284.48mm,81.28mm) has been added.
+        Warning : Junction at (353.06mm,177.8mm) has been added.
+        Warning : Junction at (332.74mm,152.4mm) has been added.
+        Warning : Junction at (322.58mm,137.16mm) has been added.
+        Warning : Junction at (312.42mm,129.54mm) has been added.
+        Warning : Junction at (330.2mm,83.82mm) has been added.
+        Warning : Junction at (162.56mm,149.86mm) has been added.
+        Warning : Junction at (134.62mm,162.56mm) has been added.
+        Warning : Junction at (60.96mm,190.5mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 04 PMIC2.SchDoc
+        Warning : Junction at (152.4mm,254mm) has been added.
+        Warning : Junction at (152.4mm,228.6mm) has been added.
+        Warning : Junction at (152.4mm,203.2mm) has been added.
+        Warning : Junction at (152.4mm,152.4mm) has been added.
+        Warning : Junction at (152.4mm,177.8mm) has been added.
+        Warning : Junction at (152.4mm,132.08mm) has been added.
+        Warning : Junction at (152.4mm,109.22mm) has been added.
+        Warning : Junction at (152.4mm,91.44mm) has been added.
+        Warning : Junction at (307.34mm,241.3mm) has been added.
+        Warning : Junction at (307.34mm,160.02mm) has been added.
+        Warning : Junction at (203.2mm,271.78mm) has been added.
+        Warning : Junction at (25.4mm,271.78mm) has been added.
+        Warning : Junction at (60.96mm,243.84mm) has been added.
+        Warning : Junction at (33.02mm,246.38mm) has been added.
+        Warning : Junction at (33.02mm,220.98mm) has been added.
+        Warning : Junction at (25.4mm,220.98mm) has been added.
+        Warning : Junction at (60.96mm,193.04mm) has been added.
+        Warning : Junction at (66.04mm,195.58mm) has been added.
+        Warning : Junction at (25.4mm,170.18mm) has been added.
+        Warning : Junction at (60.96mm,124.46mm) has been added.
+        Warning : Junction at (25.4mm,127mm) has been added.
+        Warning : Junction at (203.2mm,246.38mm) has been added.
+        Warning : Junction at (157.48mm,220.98mm) has been added.
+        Warning : Junction at (152.4mm,154.94mm) has been added.
+        Warning : Junction at (152.4mm,111.76mm) has been added.
+        Warning : Junction at (33.02mm,271.78mm) has been added.
+        Warning : Junction at (60.96mm,220.98mm) has been added.
+        Warning : Junction at (33.02mm,195.58mm) has been added.
+        Warning : Junction at (33.02mm,170.18mm) has been added.
+        Warning : Junction at (33.02mm,144.78mm) has been added.
+        Warning : Junction at (33.02mm,127mm) has been added.
+        Warning : Junction at (33.02mm,104.14mm) has been added.
+        Warning : Junction at (33.02mm,83.82mm) has been added.
+        Warning : Junction at (203.2mm,220.98mm) has been added.
+        Warning : Junction at (203.2mm,195.58mm) has been added.
+        Warning : Junction at (203.2mm,170.18mm) has been added.
+        Warning : Junction at (203.2mm,144.78mm) has been added.
+        Warning : Junction at (203.2mm,127mm) has been added.
+        Warning : Junction at (152.4mm,73.66mm) has been added.
+        Warning : Junction at (203.2mm,104.14mm) has been added.
+        Warning : Junction at (203.2mm,83.82mm) has been added.
+        Warning : Junction at (284.48mm,264.16mm) has been added.
+        Warning : Junction at (284.48mm,241.3mm) has been added.
+        Warning : Junction at (307.34mm,264.16mm) has been added.
+        Warning : Junction at (284.48mm,213.36mm) has been added.
+        Warning : Junction at (284.48mm,231.14mm) has been added.
+        Warning : Junction at (307.34mm,213.36mm) has been added.
+        Warning : Junction at (284.48mm,132.08mm) has been added.
+        Warning : Junction at (307.34mm,182.88mm) has been added.
+        Warning : Junction at (284.48mm,149.86mm) has been added.
+        Warning : Junction at (307.34mm,132.08mm) has been added.
+        Warning : Junction at (203.2mm,203.2mm) has been added.
+        Warning : Junction at (203.2mm,91.44mm) has been added.
+        Warning : Junction at (203.2mm,109.22mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 05 AM572x SYSTEM.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (264.16mm,132.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (297.18mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (297.18mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (297.18mm,261.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (297.18mm,259.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (297.18mm,254mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (378.46mm,261.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (297.18mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (381mm,246.38mm) is not recognised
+        Warning : Junction at (124.46mm,233.68mm) has been added.
+        Warning : Junction at (210.82mm,251.46mm) has been added.
+        Warning : Junction at (210.82mm,200.66mm) has been added.
+        Warning : Junction at (368.3mm,132.08mm) has been added.
+        Warning : Junction at (205.74mm,284.48mm) has been added.
+        Warning : Junction at (205.74mm,233.68mm) has been added.
+        Warning : Junction at (236.22mm,276.86mm) has been added.
+        Warning : Junction at (236.22mm,226.06mm) has been added.
+        Warning : Junction at (83.82mm,154.94mm) has been added.
+        Warning : Junction at (124.46mm,170.18mm) has been added.
+        Warning : Junction at (264.16mm,22.86mm) has been added.
+        Warning : Junction at (276.86mm,66.04mm) has been added.
+        Warning : Junction at (363.22mm,132.08mm) has been added.
+        Warning : Junction at (246.38mm,152.4mm) has been added.
+        Warning : Junction at (246.38mm,132.08mm) has been added.
+        Warning : Junction at (248.92mm,134.62mm) has been added.
+        Warning : Junction at (109.22mm,68.58mm) has been added.
+        Warning : Junction at (99.06mm,27.94mm) has been added.
+        Warning : Junction at (60.96mm,139.7mm) has been added.
+        Warning : Junction at (320.04mm,256.54mm) has been added.
+        Warning : Junction at (363.22mm,238.76mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 06 DDR PART1.SchDoc
+        Warning : Junction at (254mm,154.94mm) has been added.
+        Warning : Junction at (177.8mm,91.44mm) has been added.
+        Warning : Junction at (177.8mm,73.66mm) has been added.
+        Warning : Junction at (231.14mm,91.44mm) has been added.
+        Warning : Junction at (231.14mm,73.66mm) has been added.
+        Warning : Junction at (177.8mm,53.34mm) has been added.
+        Warning : Junction at (177.8mm,35.56mm) has been added.
+        Warning : Junction at (314.96mm,73.66mm) has been added.
+        Warning : Junction at (368.3mm,73.66mm) has been added.
+        Warning : Junction at (170.18mm,190.5mm) has been added.
+        Warning : Junction at (170.18mm,185.42mm) has been added.
+        Warning : Junction at (170.18mm,175.26mm) has been added.
+        Warning : Junction at (170.18mm,172.72mm) has been added.
+        Warning : Junction at (170.18mm,154.94mm) has been added.
+        Warning : Junction at (170.18mm,152.4mm) has been added.
+        Warning : Junction at (170.18mm,147.32mm) has been added.
+        Warning : Junction at (170.18mm,139.7mm) has been added.
+        Warning : Junction at (302.26mm,149.86mm) has been added.
+        Warning : Junction at (302.26mm,154.94mm) has been added.
+        Warning : Junction at (302.26mm,142.24mm) has been added.
+        Warning : Junction at (302.26mm,147.32mm) has been added.
+        Warning : Junction at (302.26mm,139.7mm) has been added.
+        Warning : Junction at (302.26mm,185.42mm) has been added.
+        Warning : Junction at (302.26mm,177.8mm) has been added.
+        Warning : Junction at (228.6mm,220.98mm) has been added.
+        Warning : Junction at (228.6mm,213.36mm) has been added.
+        Warning : Junction at (228.6mm,208.28mm) has been added.
+        Warning : Junction at (228.6mm,223.52mm) has been added.
+        Warning : Junction at (228.6mm,193.04mm) has been added.
+        Warning : Junction at (228.6mm,187.96mm) has been added.
+        Warning : Junction at (228.6mm,180.34mm) has been added.
+        Warning : Junction at (228.6mm,172.72mm) has been added.
+        Warning : Junction at (228.6mm,185.42mm) has been added.
+        Warning : Junction at (228.6mm,177.8mm) has been added.
+        Warning : Junction at (228.6mm,175.26mm) has been added.
+        Warning : Junction at (228.6mm,170.18mm) has been added.
+        Warning : Junction at (228.6mm,167.64mm) has been added.
+        Warning : Junction at (254mm,149.86mm) has been added.
+        Warning : Junction at (360.68mm,205.74mm) has been added.
+        Warning : Junction at (360.68mm,210.82mm) has been added.
+        Warning : Junction at (360.68mm,215.9mm) has been added.
+        Warning : Junction at (360.68mm,220.98mm) has been added.
+        Warning : Junction at (360.68mm,223.52mm) has been added.
+        Warning : Junction at (360.68mm,187.96mm) has been added.
+        Warning : Junction at (360.68mm,190.5mm) has been added.
+        Warning : Junction at (360.68mm,177.8mm) has been added.
+        Warning : Junction at (360.68mm,175.26mm) has been added.
+        Warning : Junction at (360.68mm,185.42mm) has been added.
+        Warning : Junction at (360.68mm,167.64mm) has been added.
+        Warning : Junction at (386.08mm,149.86mm) has been added.
+        Warning : Junction at (167.64mm,91.44mm) has been added.
+        Warning : Junction at (187.96mm,91.44mm) has been added.
+        Warning : Junction at (241.3mm,91.44mm) has been added.
+        Warning : Junction at (167.64mm,35.56mm) has been added.
+        Warning : Junction at (304.8mm,91.44mm) has been added.
+        Warning : Junction at (325.12mm,91.44mm) has been added.
+        Warning : Junction at (304.8mm,73.66mm) has been added.
+        Warning : Junction at (358.14mm,91.44mm) has been added.
+        Warning : Junction at (378.46mm,91.44mm) has been added.
+        Warning : Junction at (358.14mm,73.66mm) has been added.
+        Warning : Junction at (378.46mm,73.66mm) has been added.
+        Warning : Junction at (304.8mm,53.34mm) has been added.
+        Warning : Junction at (325.12mm,53.34mm) has been added.
+        Warning : Junction at (304.8mm,35.56mm) has been added.
+        Warning : Junction at (325.12mm,35.56mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 07 DDR PART2.SchDoc
+        Warning : Junction at (93.98mm,76.2mm) has been added.
+        Warning : Junction at (99.06mm,127mm) has been added.
+        Warning : Junction at (109.22mm,127mm) has been added.
+        Warning : Junction at (121.92mm,68.58mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 08 DDR VTT_LEDs.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,170.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,162.56mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,203.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,160.02mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,208.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,182.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,198.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,187.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,185.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,177.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,175.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,180.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (353.06mm,157.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (48.26mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (50.8mm,167.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (50.8mm,157.48mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (50.8mm,152.4mm) is not recognised
+        Warning : Junction at (307.34mm,218.44mm) has been added.
+        Warning : Junction at (91.44mm,190.5mm) has been added.
+        Warning : Junction at (68.58mm,236.22mm) has been added.
+        Warning : Junction at (55.88mm,190.5mm) has been added.
+        Warning : Junction at (127mm,190.5mm) has been added.
+        Warning : Junction at (104.14mm,236.22mm) has been added.
+        Warning : Junction at (106.68mm,81.28mm) has been added.
+        Warning : Junction at (259.08mm,60.96mm) has been added.
+        Warning : Junction at (254mm,76.2mm) has been added.
+        Warning : Junction at (175.26mm,55.88mm) has been added.
+        Warning : Junction at (63.5mm,81.28mm) has been added.
+        Warning : Junction at (45.72mm,81.28mm) has been added.
+        Warning : Junction at (132.08mm,81.28mm) has been added.
+        Warning : Junction at (91.44mm,81.28mm) has been added.
+        Warning : Junction at (99.06mm,81.28mm) has been added.
+        Warning : Junction at (307.34mm,205.74mm) has been added.
+        Warning : Junction at (307.34mm,200.66mm) has been added.
+        Warning : Junction at (307.34mm,190.5mm) has been added.
+        Warning : Junction at (307.34mm,195.58mm) has been added.
+        Warning : Junction at (307.34mm,182.88mm) has been added.
+        Warning : Junction at (307.34mm,162.56mm) has been added.
+        Warning : Junction at (307.34mm,185.42mm) has been added.
+        Warning : Junction at (307.34mm,238.76mm) has been added.
+        Warning : Junction at (287.02mm,218.44mm) has been added.
+        Warning : Junction at (210.82mm,236.22mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 09 MMC_UBOOT.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,228.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,226.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (96.52mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (96.52mm,170.18mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (96.52mm,167.64mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (96.52mm,165.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,88.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,86.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,83.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,81.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,78.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,73.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,71.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,68.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,63.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,60.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,58.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,55.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,50.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,223.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (111.76mm,220.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,66.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (116.84mm,53.34mm) is not recognised
+        Warning : Junction at (55.88mm,116.84mm) has been added.
+        Warning : Junction at (320.04mm,218.44mm) has been added.
+        Warning : Junction at (322.58mm,218.44mm) has been added.
+        Warning : Junction at (325.12mm,218.44mm) has been added.
+        Warning : Junction at (330.2mm,218.44mm) has been added.
+        Warning : Junction at (332.74mm,218.44mm) has been added.
+        Warning : Junction at (335.28mm,218.44mm) has been added.
+        Warning : Junction at (337.82mm,218.44mm) has been added.
+        Warning : Junction at (358.14mm,213.36mm) has been added.
+        Warning : Junction at (360.68mm,213.36mm) has been added.
+        Warning : Junction at (363.22mm,213.36mm) has been added.
+        Warning : Junction at (365.76mm,213.36mm) has been added.
+        Warning : Junction at (368.3mm,213.36mm) has been added.
+        Warning : Junction at (223.52mm,271.78mm) has been added.
+        Warning : Junction at (218.44mm,271.78mm) has been added.
+        Warning : Junction at (215.9mm,271.78mm) has been added.
+        Warning : Junction at (208.28mm,271.78mm) has been added.
+        Warning : Junction at (210.82mm,271.78mm) has been added.
+        Warning : Junction at (205.74mm,248.92mm) has been added.
+        Warning : Junction at (208.28mm,243.84mm) has been added.
+        Warning : Junction at (210.82mm,241.3mm) has been added.
+        Warning : Junction at (325.12mm,248.92mm) has been added.
+        Warning : Junction at (353.06mm,261.62mm) has been added.
+        Warning : Junction at (378.46mm,261.62mm) has been added.
+        Warning : Junction at (60.96mm,116.84mm) has been added.
+        Warning : Junction at (68.58mm,116.84mm) has been added.
+        Warning : Junction at (53.34mm,83.82mm) has been added.
+        Warning : Junction at (60.96mm,76.2mm) has been added.
+        Warning : Junction at (50.8mm,86.36mm) has been added.
+        Warning : Junction at (48.26mm,88.9mm) has been added.
+        Warning : Junction at (48.26mm,38.1mm) has been added.
+        Warning : Junction at (78.74mm,38.1mm) has been added.
+        Warning : Junction at (73.66mm,38.1mm) has been added.
+        Warning : Junction at (66.04mm,38.1mm) has been added.
+        Warning : Junction at (63.5mm,38.1mm) has been added.
+        Warning : Junction at (55.88mm,38.1mm) has been added.
+        Warning : Junction at (50.8mm,38.1mm) has been added.
+        Warning : Junction at (55.88mm,81.28mm) has been added.
+        Warning : Junction at (50.8mm,116.84mm) has been added.
+        Warning : Junction at (58.42mm,38.1mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 10 AM572x Interface 1.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (99.06mm,160.02mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (355.6mm,198.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (355.6mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (238.76mm,261.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (114.3mm,106.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (114.3mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (238.76mm,259.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (99.06mm,256.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (99.06mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (241.3mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (104.14mm,271.78mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (373.38mm,101.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (104.14mm,269.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (241.3mm,81.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (238.76mm,88.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (241.3mm,63.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,269.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,266.7mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,264.16mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,259.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,256.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (383.54mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (241.3mm,73.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (99.06mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (99.06mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (104.14mm,55.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (104.14mm,58.42mm) is not recognised
+        Warning : Junction at (365.76mm,241.3mm) has been added.
+        Warning : Junction at (360.68mm,243.84mm) has been added.
+        Warning : Junction at (350.52mm,251.46mm) has been added.
+        Warning : Junction at (86.36mm,170.18mm) has been added.
+        Warning : Junction at (83.82mm,167.64mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 11 AM572x Interface 2.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,256.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,254mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,251.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,248.92mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,246.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,243.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,228.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,226.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,223.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,218.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,233.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (142.24mm,220.98mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,142.24mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (370.84mm,241.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,213.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,215.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,198.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,187.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,185.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,182.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,180.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,203.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,198.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,187.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (261.62mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,127mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,185.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (370.84mm,231.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (259.08mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (264.16mm,73.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (35.56mm,223.52mm) is not recognised
+        Warning : Junction at (50.8mm,111.76mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 12 Processor  Power.SchDoc
+        Warning : Junction at (203.2mm,297.18mm) has been added.
+        Warning : Junction at (238.76mm,76.2mm) has been added.
+        Warning : Junction at (203.2mm,177.8mm) has been added.
+        Warning : Junction at (203.2mm,274.32mm) has been added.
+        Warning : Junction at (203.2mm,271.78mm) has been added.
+        Warning : Junction at (495.3mm,109.22mm) has been added.
+        Warning : Junction at (454.66mm,121.92mm) has been added.
+        Warning : Junction at (203.2mm,304.8mm) has been added.
+        Warning : Junction at (203.2mm,302.26mm) has been added.
+        Warning : Junction at (203.2mm,287.02mm) has been added.
+        Warning : Junction at (203.2mm,226.06mm) has been added.
+        Warning : Junction at (203.2mm,320.04mm) has been added.
+        Warning : Junction at (243.84mm,76.2mm) has been added.
+        Warning : Junction at (266.7mm,76.2mm) has been added.
+        Warning : Junction at (175.26mm,165.1mm) has been added.
+        Warning : Junction at (175.26mm,177.8mm) has been added.
+        Warning : Junction at (261.62mm,76.2mm) has been added.
+        Warning : Junction at (182.88mm,200.66mm) has been added.
+        Warning : Junction at (149.86mm,147.32mm) has been added.
+        Warning : Junction at (139.7mm,147.32mm) has been added.
+        Warning : Junction at (109.22mm,134.62mm) has been added.
+        Warning : Junction at (304.8mm,76.2mm) has been added.
+        Warning : Junction at (279.4mm,76.2mm) has been added.
+        Warning : Junction at (314.96mm,76.2mm) has been added.
+        Warning : Junction at (309.88mm,76.2mm) has been added.
+        Warning : Junction at (297.18mm,76.2mm) has been added.
+        Warning : Junction at (345.44mm,76.2mm) has been added.
+        Warning : Junction at (327.66mm,76.2mm) has been added.
+        Warning : Junction at (335.28mm,76.2mm) has been added.
+        Warning : Junction at (320.04mm,76.2mm) has been added.
+        Warning : Junction at (325.12mm,76.2mm) has been added.
+        Warning : Junction at (358.14mm,76.2mm) has been added.
+        Warning : Junction at (495.3mm,121.92mm) has been added.
+        Warning : Junction at (340.36mm,76.2mm) has been added.
+        Warning : Junction at (370.84mm,76.2mm) has been added.
+        Warning : Junction at (373.38mm,76.2mm) has been added.
+        Warning : Junction at (203.2mm,144.78mm) has been added.
+        Warning : Junction at (203.2mm,149.86mm) has been added.
+        Warning : Junction at (203.2mm,154.94mm) has been added.
+        Warning : Junction at (203.2mm,160.02mm) has been added.
+        Warning : Junction at (233.68mm,375.92mm) has been added.
+        Warning : Junction at (223.52mm,375.92mm) has been added.
+        Warning : Junction at (254mm,375.92mm) has been added.
+        Warning : Junction at (238.76mm,375.92mm) has been added.
+        Warning : Junction at (243.84mm,375.92mm) has been added.
+        Warning : Junction at (251.46mm,375.92mm) has been added.
+        Warning : Junction at (248.92mm,375.92mm) has been added.
+        Warning : Junction at (241.3mm,375.92mm) has been added.
+        Warning : Junction at (236.22mm,375.92mm) has been added.
+        Warning : Junction at (231.14mm,375.92mm) has been added.
+        Warning : Junction at (271.78mm,375.92mm) has been added.
+        Warning : Junction at (259.08mm,375.92mm) has been added.
+        Warning : Junction at (261.62mm,375.92mm) has been added.
+        Warning : Junction at (320.04mm,375.92mm) has been added.
+        Warning : Junction at (312.42mm,375.92mm) has been added.
+        Warning : Junction at (314.96mm,375.92mm) has been added.
+        Warning : Junction at (307.34mm,375.92mm) has been added.
+        Warning : Junction at (269.24mm,375.92mm) has been added.
+        Warning : Junction at (274.32mm,375.92mm) has been added.
+        Warning : Junction at (342.9mm,375.92mm) has been added.
+        Warning : Junction at (327.66mm,375.92mm) has been added.
+        Warning : Junction at (330.2mm,375.92mm) has been added.
+        Warning : Junction at (332.74mm,375.92mm) has been added.
+        Warning : Junction at (325.12mm,375.92mm) has been added.
+        Warning : Junction at (360.68mm,375.92mm) has been added.
+        Warning : Junction at (368.3mm,375.92mm) has been added.
+        Warning : Junction at (363.22mm,375.92mm) has been added.
+        Warning : Junction at (355.6mm,375.92mm) has been added.
+        Warning : Junction at (292.1mm,375.92mm) has been added.
+        Warning : Junction at (381mm,375.92mm) has been added.
+        Warning : Junction at (373.38mm,375.92mm) has been added.
+        Warning : Junction at (370.84mm,375.92mm) has been added.
+        Warning : Junction at (203.2mm,99.06mm) has been added.
+        Warning : Junction at (203.2mm,104.14mm) has been added.
+        Warning : Junction at (203.2mm,109.22mm) has been added.
+        Warning : Junction at (203.2mm,114.3mm) has been added.
+        Warning : Junction at (378.46mm,76.2mm) has been added.
+        Warning : Junction at (203.2mm,119.38mm) has been added.
+        Warning : Junction at (203.2mm,116.84mm) has been added.
+        Warning : Junction at (203.2mm,96.52mm) has been added.
+        Warning : Junction at (398.78mm,76.2mm) has been added.
+        Warning : Junction at (393.7mm,76.2mm) has been added.
+        Warning : Junction at (388.62mm,76.2mm) has been added.
+        Warning : Junction at (383.54mm,76.2mm) has been added.
+        Warning : Junction at (406.4mm,76.2mm) has been added.
+        Warning : Junction at (408.94mm,76.2mm) has been added.
+        Warning : Junction at (449.58mm,312.42mm) has been added.
+        Warning : Junction at (200.66mm,340.36mm) has been added.
+        Warning : Junction at (203.2mm,187.96mm) has been added.
+        Warning : Junction at (203.2mm,185.42mm) has been added.
+        Warning : Junction at (200.66mm,342.9mm) has been added.
+        Warning : Junction at (200.66mm,345.44mm) has been added.
+        Warning : Junction at (200.66mm,353.06mm) has been added.
+        Warning : Junction at (535.94mm,345.44mm) has been added.
+        Warning : Junction at (535.94mm,327.66mm) has been added.
+        Warning : Junction at (149.86mm,134.62mm) has been added.
+        Warning : Junction at (109.22mm,147.32mm) has been added.
+        Warning : Junction at (165.1mm,165.1mm) has been added.
+        Warning : Junction at (139.7mm,134.62mm) has been added.
+        Warning : Junction at (335.28mm,375.92mm) has been added.
+        Warning : Junction at (170.18mm,147.32mm) has been added.
+        Warning : Junction at (180.34mm,134.62mm) has been added.
+        Warning : Junction at (203.2mm,182.88mm) has been added.
+        Warning : Junction at (203.2mm,172.72mm) has been added.
+        Warning : Junction at (203.2mm,210.82mm) has been added.
+        Warning : Junction at (459.74mm,198.12mm) has been added.
+        Warning : Junction at (203.2mm,261.62mm) has been added.
+        Warning : Junction at (180.34mm,147.32mm) has been added.
+        Warning : Junction at (203.2mm,134.62mm) has been added.
+        Warning : Junction at (203.2mm,137.16mm) has been added.
+        Warning : Junction at (203.2mm,142.24mm) has been added.
+        Warning : Junction at (162.56mm,81.28mm) has been added.
+        Warning : Junction at (162.56mm,93.98mm) has been added.
+        Warning : Junction at (474.98mm,121.92mm) has been added.
+        Warning : Junction at (474.98mm,109.22mm) has been added.
+        Warning : Junction at (203.2mm,93.98mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 13 Processor Power Deco.SchDoc
+        Warning : Junction at (233.68mm,193.04mm) has been added.
+        Warning : Junction at (279.4mm,137.16mm) has been added.
+        Warning : Junction at (124.46mm,137.16mm) has been added.
+        Warning : Junction at (233.68mm,251.46mm) has been added.
+        Warning : Junction at (121.92mm,193.04mm) has been added.
+        Warning : Junction at (152.4mm,193.04mm) has been added.
+        Warning : Junction at (132.08mm,193.04mm) has been added.
+        Warning : Junction at (233.68mm,264.16mm) has been added.
+        Warning : Junction at (284.48mm,193.04mm) has been added.
+        Warning : Junction at (264.16mm,180.34mm) has been added.
+        Warning : Junction at (264.16mm,193.04mm) has been added.
+        Warning : Junction at (254mm,193.04mm) has been added.
+        Warning : Junction at (114.3mm,154.94mm) has been added.
+        Warning : Junction at (119.38mm,106.68mm) has been added.
+        Warning : Junction at (124.46mm,154.94mm) has been added.
+        Warning : Junction at (99.06mm,106.68mm) has been added.
+        Warning : Junction at (269.24mm,154.94mm) has been added.
+        Warning : Junction at (279.4mm,154.94mm) has been added.
+        Warning : Junction at (129.54mm,88.9mm) has been added.
+        Warning : Junction at (121.92mm,261.62mm) has been added.
+        Warning : Junction at (132.08mm,261.62mm) has been added.
+        Warning : Junction at (121.92mm,248.92mm) has been added.
+        Warning : Junction at (132.08mm,248.92mm) has been added.
+        Warning : Junction at (60.96mm,261.62mm) has been added.
+        Warning : Junction at (101.6mm,248.92mm) has been added.
+        Warning : Junction at (91.44mm,261.62mm) has been added.
+        Warning : Junction at (101.6mm,261.62mm) has been added.
+        Warning : Junction at (71.12mm,261.62mm) has been added.
+        Warning : Junction at (71.12mm,248.92mm) has been added.
+        Warning : Junction at (243.84mm,228.6mm) has been added.
+        Warning : Junction at (264.16mm,228.6mm) has been added.
+        Warning : Junction at (254mm,228.6mm) has been added.
+        Warning : Junction at (60.96mm,228.6mm) has been added.
+        Warning : Junction at (71.12mm,228.6mm) has been added.
+        Warning : Junction at (101.6mm,228.6mm) has been added.
+        Warning : Junction at (121.92mm,228.6mm) has been added.
+        Warning : Junction at (101.6mm,215.9mm) has been added.
+        Warning : Junction at (142.24mm,228.6mm) has been added.
+        Warning : Junction at (91.44mm,193.04mm) has been added.
+        Warning : Junction at (101.6mm,180.34mm) has been added.
+        Warning : Junction at (101.6mm,193.04mm) has been added.
+        Warning : Junction at (129.54mm,106.68mm) has been added.
+        Warning : Junction at (152.4mm,228.6mm) has been added.
+        Warning : Junction at (152.4mm,248.92mm) has been added.
+        Warning : Junction at (152.4mm,261.62mm) has been added.
+        Warning : Junction at (172.72mm,261.62mm) has been added.
+        Warning : Junction at (71.12mm,193.04mm) has been added.
+        Warning : Junction at (60.96mm,180.34mm) has been added.
+        Warning : Junction at (71.12mm,180.34mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 14 Exp Conn.SchDoc
+        Warning : Power Port of type 12V_VDD at (355.6mm,182.88mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (165.1mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (165.1mm,218.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (165.1mm,215.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (165.1mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,195.58mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (76.2mm,218.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (76.2mm,215.9mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (147.32mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (147.32mm,208.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (165.1mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (93.98mm,208.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (162.56mm,81.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,187.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,185.42mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (93.98mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,205.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,193.04mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (363.22mm,71.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,210.82mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (363.22mm,60.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,203.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (93.98mm,198.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (162.56mm,71.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (279.4mm,203.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (73.66mm,38.1mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (279.4mm,190.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (360.68mm,129.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,177.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,175.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (279.4mm,180.34mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (279.4mm,177.8mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (279.4mm,175.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (279.4mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,81.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,86.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,91.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,96.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (271.78mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,81.28mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,91.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (271.78mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (271.78mm,86.36mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (271.78mm,124.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (93.98mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (360.68mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (271.78mm,71.12mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (271.78mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (147.32mm,200.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,129.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (73.66mm,124.46mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (147.32mm,203.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (162.56mm,114.3mm) is not recognised
+        Warning : Junction at (292.1mm,165.1mm) has been added.
+        Warning : Junction at (340.36mm,165.1mm) has been added.
+        Warning : Junction at (388.62mm,86.36mm) has been added.
+        Warning : Junction at (388.62mm,96.52mm) has been added.
+        Warning : Junction at (101.6mm,53.34mm) has been added.
+        Warning : Junction at (101.6mm,63.5mm) has been added.
+        Warning : Junction at (101.6mm,76.2mm) has been added.
+        Warning : Junction at (101.6mm,86.36mm) has been added.
+        Warning : Junction at (101.6mm,109.22mm) has been added.
+        Warning : Junction at (101.6mm,96.52mm) has been added.
+        Warning : Junction at (190.5mm,109.22mm) has been added.
+        Warning : Junction at (190.5mm,129.54mm) has been added.
+        Warning : Junction at (299.72mm,96.52mm) has been added.
+        Warning : Junction at (299.72mm,109.22mm) has been added.
+        Warning : Junction at (388.62mm,119.38mm) has been added.
+        Warning : Junction at (388.62mm,109.22mm) has been added.
+        Warning : Junction at (101.6mm,119.38mm) has been added.
+        Warning : Junction at (388.62mm,129.54mm) has been added.
+        Warning : Junction at (101.6mm,129.54mm) has been added.
+        Warning : Junction at (101.6mm,43.18mm) has been added.
+        Warning : Junction at (299.72mm,129.54mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 15 WIFI.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (134.62mm,104.14mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (134.62mm,101.6mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (134.62mm,114.3mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (134.62mm,111.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (152.4mm,218.44mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (134.62mm,119.38mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (137.16mm,172.72mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (137.16mm,175.26mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (134.62mm,116.84mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (215.9mm,210.82mm) is not recognised
+        Warning : Junction at (330.2mm,139.7mm) has been added.
+        Warning : Junction at (104.14mm,167.64mm) has been added.
+        Warning : Junction at (68.58mm,127mm) has been added.
+        Warning : Junction at (332.74mm,203.2mm) has been added.
+        Warning : Junction at (342.9mm,203.2mm) has been added.
+        Warning : Junction at (353.06mm,203.2mm) has been added.
+        Warning : Junction at (177.8mm,218.44mm) has been added.
+        Warning : Junction at (93.98mm,185.42mm) has been added.
+        Warning : Junction at (68.58mm,185.42mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 16 Ethernet.SchDoc
+        Warning : Power Port of type 3V3_VDD at (60.96mm,243.84mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (175.26mm,205.74mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (368.3mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (264.16mm,233.68mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (104.14mm,269.24mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (93.98mm,264.16mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (104.14mm,254mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (144.78mm,134.62mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (243.84mm,144.78mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (190.5mm,86.36mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (251.46mm,86.36mm) was replaced with Arrow style port
+        Warning : Power Port of type 3V3_VDD at (142.24mm,83.82mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (68.58mm,200.66mm) is not recognised
+        Warning : Junction at (292.1mm,218.44mm) has been added.
+        Warning : Junction at (228.6mm,35.56mm) has been added.
+        Warning : Junction at (175.26mm,187.96mm) has been added.
+        Warning : Junction at (175.26mm,203.2mm) has been added.
+        Warning : Junction at (259.08mm,223.52mm) has been added.
+        Warning : Junction at (198.12mm,226.06mm) has been added.
+        Warning : Junction at (91.44mm,172.72mm) has been added.
+        Warning : Junction at (332.74mm,182.88mm) has been added.
+        Warning : Junction at (332.74mm,172.72mm) has been added.
+        Warning : Junction at (332.74mm,162.56mm) has been added.
+        Warning : Junction at (332.74mm,152.4mm) has been added.
+        Warning : Junction at (373.38mm,152.4mm) has been added.
+        Warning : Junction at (284.48mm,231.14mm) has been added.
+        Warning : Junction at (233.68mm,208.28mm) has been added.
+        Warning : Junction at (106.68mm,124.46mm) has been added.
+        Warning : Junction at (231.14mm,139.7mm) has been added.
+        Warning : Junction at (205.74mm,139.7mm) has been added.
+        Warning : Junction at (251.46mm,66.04mm) has been added.
+        Warning : Junction at (228.6mm,81.28mm) has been added.
+        Warning : Junction at (190.5mm,81.28mm) has been added.
+        Warning : Junction at (203.2mm,81.28mm) has been added.
+        Warning : Junction at (190.5mm,63.5mm) has been added.
+        Warning : Junction at (251.46mm,81.28mm) has been added.
+        Warning : Junction at (142.24mm,71.12mm) has been added.
+        Warning : Junction at (104.14mm,66.04mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 17 USB Type C.SchDoc
+        Warning : Power Port of type 12V_VDD at (48.26mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 12V_VDD at (134.62mm,248.92mm) was replaced with Arrow style port
+        Warning : Power Port of type 12V_VDD at (53.34mm,160.02mm) was replaced with Arrow style port
+        Warning : Power Port of type 12V_VDD at (220.98mm,256.54mm) was replaced with Arrow style port
+        Warning : Power Port of type 5V_VDD at (314.96mm,58.42mm) was replaced with Arrow style port
+        Warning : Power Port of type 5V_VDD at (124.46mm,60.96mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (170.18mm,236.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (170.18mm,238.76mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (137.16mm,149.86mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (78.74mm,55.88mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (78.74mm,53.34mm) is not recognised
+        Warning : Junction at (358.14mm,251.46mm) has been added.
+        Warning : Junction at (124.46mm,35.56mm) has been added.
+        Warning : Junction at (106.68mm,203.2mm) has been added.
+        Warning : Junction at (73.66mm,203.2mm) has been added.
+        Warning : Junction at (121.92mm,205.74mm) has been added.
+        Warning : Junction at (88.9mm,182.88mm) has been added.
+        Warning : Junction at (78.74mm,182.88mm) has been added.
+        Warning : Junction at (134.62mm,243.84mm) has been added.
+        Warning : Junction at (48.26mm,243.84mm) has been added.
+        Warning : Junction at (330.2mm,152.4mm) has been added.
+        Warning : Junction at (340.36mm,116.84mm) has been added.
+        Warning : Junction at (363.22mm,147.32mm) has been added.
+        Warning : Junction at (332.74mm,144.78mm) has been added.
+        Warning : Junction at (363.22mm,134.62mm) has been added.
+        Warning : Junction at (170.18mm,144.78mm) has been added.
+        Warning : Junction at (71.12mm,152.4mm) has been added.
+        Warning : Junction at (63.5mm,134.62mm) has been added.
+        Warning : Junction at (327.66mm,251.46mm) has been added.
+        Warning : Junction at (284.48mm,248.92mm) has been added.
+        Warning : Junction at (256.54mm,251.46mm) has been added.
+        Warning : Junction at (231.14mm,233.68mm) has been added.
+        Warning : Junction at (231.14mm,251.46mm) has been added.
+        Warning : Junction at (337.82mm,233.68mm) has been added.
+        Warning : Junction at (337.82mm,251.46mm) has been added.
+        Warning : Junction at (284.48mm,218.44mm) has been added.
+        Warning : Junction at (299.72mm,218.44mm) has been added.
+        Warning : Junction at (48.26mm,152.4mm) has been added.
+        Warning : Junction at (119.38mm,144.78mm) has been added.
+        Warning : Junction at (149.86mm,238.76mm) has been added.
+        Warning : Junction at (147.32mm,236.22mm) has been added.
+        Warning : Junction at (124.46mm,58.42mm) has been added.
+        Warning : Junction at (312.42mm,48.26mm) has been added.
+        Warning : Junction at (309.88mm,55.88mm) has been added.
+        Warning : Junction at (309.88mm,53.34mm) has been added.
+        Warning : Junction at (261.62mm,55.88mm) has been added.
+        Warning : Junction at (170.18mm,50.8mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 18 ADC_TF_Debug.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (71.12mm,78.74mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (71.12mm,63.5mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (71.12mm,73.66mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (71.12mm,76.2mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (71.12mm,60.96mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinL at (88.9mm,223.52mm) is not recognised
+        Warning : Junction at (322.58mm,231.14mm) has been added.
+        Warning : Junction at (88.9mm,236.22mm) has been added.
+        Warning : Junction at (88.9mm,238.76mm) has been added.
+        Warning : Junction at (88.9mm,233.68mm) has been added.
+        Warning : Junction at (88.9mm,215.9mm) has been added.
+        Warning : Junction at (88.9mm,218.44mm) has been added.
+        Warning : Junction at (317.5mm,73.66mm) has been added.
+        Warning : Junction at (185.42mm,104.14mm) has been added.
+        Warning : Junction at (154.94mm,104.14mm) has been added.
+        Warning : Junction at (104.14mm,78.74mm) has been added.
+        Warning : Junction at (144.78mm,104.14mm) has been added.
+        Warning : Junction at (124.46mm,104.14mm) has been added.
+        Warning : Junction at (104.14mm,104.14mm) has been added.
+        Warning : Junction at (78.74mm,68.58mm) has been added.
+        Warning : Junction at (58.42mm,238.76mm) has been added.
+        Warning : Junction at (106.68mm,231.14mm) has been added.
+        Warning : Junction at (246.38mm,231.14mm) has been added.
+        Warning : Junction at (299.72mm,218.44mm) has been added.
+    EndSection
+
+    Section : Importing Sheet - 19 HDMI.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE BiDir PinR at (93.98mm,96.52mm) is not recognised
+        Warning : Junction at (360.68mm,200.66mm) has been added.
+        Warning : Junction at (139.7mm,127mm) has been added.
+        Warning : Junction at (187.96mm,127mm) has been added.
+        Warning : Junction at (99.06mm,104.14mm) has been added.
+        Warning : Junction at (129.54mm,127mm) has been added.
+        Warning : Junction at (106.68mm,127mm) has been added.
+        Warning : Junction at (106.68mm,101.6mm) has been added.
+        Warning : Junction at (121.92mm,127mm) has been added.
+        Warning : Junction at (157.48mm,203.2mm) has been added.
+        Warning : Junction at (317.5mm,187.96mm) has been added.
+        Warning : Junction at (266.7mm,226.06mm) has been added.
+        Warning : Junction at (274.32mm,223.52mm) has been added.
+        Warning : Junction at (281.94mm,200.66mm) has been added.
+        Warning : Junction at (289.56mm,195.58mm) has been added.
+        Warning : Junction at (297.18mm,182.88mm) has been added.
+        Warning : Junction at (274.32mm,154.94mm) has been added.
+        Warning : Junction at (289.56mm,154.94mm) has been added.
+        Warning : Junction at (297.18mm,154.94mm) has been added.
+    EndSection
+EndSection
